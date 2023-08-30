@@ -1,6 +1,6 @@
 CREATE DATABASE entreprise;
 
-\c entreprise
+\c enterprise
 
 -- Creating the "Departments" table
 CREATE TABLE Departments (
